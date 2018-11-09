@@ -39,7 +39,7 @@ We've already forked Barry Clark's [Jekyll Now](https://github.com/barryclark/je
 1. At the bottom of your `Quick setup` page click `Import Code`.
 2. In a new browser tab, open your main repository -- mine is called `awcpa.github.io`
 3. Click on the green `Clone or Download` button
-4. Copy the URL (website address like `https://blahblahblah.com`)you see there.
+4. Copy the URL (website address like `https://blahblahblah.com`) you see there.
 5. Go back to the `Quick setup` page and paste your URL in the box that says, `Your old repository’s clone URL`
 6. Click `Begin import`
 7. Be patient -- this can take a while

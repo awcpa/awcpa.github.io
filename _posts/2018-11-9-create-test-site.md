@@ -47,3 +47,5 @@ We've already forked Barry Clark's [Jekyll Now](https://github.com/barryclark/je
 ## Now what?
 
 Your new test blog should look identical to your working blog. Feel free to write code, move things around, and break stuff! If you figure out how to add some new code or functionality, repeat the process and copy/paste your working code to your main blog and enjoy!
+
+:+1:

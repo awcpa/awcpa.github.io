@@ -3,7 +3,7 @@ layout: post
 title: Burt's Bees Lip Balm Product Review
 ---
 
-![lip balm](/images/bbimg.jpg)
+![lip balm](/images/bbimg2.jpg)
 
 ## Keep Your Lips Moisturized!
 

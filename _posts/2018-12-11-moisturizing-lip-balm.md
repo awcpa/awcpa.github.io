@@ -3,7 +3,7 @@ layout: post
 title: Burt's Bees Moisturizing Lip Balm
 ---
 
-![lip balm](/images/bbimg1.jpeg)
+![lip balm](/images/bbimg.jpg)
 
 ## Keep Your Lips Moisturized!
 

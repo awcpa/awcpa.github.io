@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Burt's Bees Moisturizing Lip Balm
+title: Burt's Bees Lip Balm Product Review
 ---
 
 ![lip balm](/images/bbimg.jpg)
